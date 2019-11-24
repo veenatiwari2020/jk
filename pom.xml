@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>ca.uwo.csd.cs2212.veena_tiwari</groupId>
-  <artifactId>veena_tiwari-veenatiwari2020/jk</artifactId>
+  <artifactId>veena_tiwari-veenatiwari2020</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 <!-- veena  this time it will run -->
